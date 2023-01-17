@@ -1,0 +1,8 @@
+mode: debug
+port: :8080
+url: http://127.0.0.1:8080
+database:
+  name: douyin
+  host: 127.0.0.1:3306
+  username: douyin
+  password: 123456
